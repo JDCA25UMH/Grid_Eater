@@ -5,10 +5,10 @@ de "juego" a "ended".
 
 
 
-
+<p align="center">
 <img width="500" height="360" alt="Captura de pantalla 2026-11-12 191950" 
   src="https://github.com/user-attachments/assets/f6a2f73f-8cdf-44e2-a4ea-46ab15f136be" /><br>
-
+</p>
 
   
 El rectangulo de color azul claro se mueve por medio de las indicaciones del usuario de acuerdo a un 
