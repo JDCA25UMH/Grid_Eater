@@ -3,7 +3,7 @@ Demo consistente en dos cuadros, cuales se mueven de diferentes formas dentro de
 en una pantalla, rodeada por un límite verde, cual no pueden pasar, a costa de cambiar el estado del juego 
 de "juego" a "ended".
 
-
+<br>
 
 <p align="center">
 <img width="500" height="360" alt="Captura de pantalla 2026-11-12 191950" 
@@ -31,6 +31,7 @@ end
 end
 
 ```
-  
+
+  <br>
 Por medio de las colisiones, desaparece el segundo objeto, y se suman puntos en el juego, a no ser que el 
 usuario active la mencionada acción consecuente al estado "ended".
