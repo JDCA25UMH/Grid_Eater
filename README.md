@@ -5,7 +5,7 @@ de "juego" a "ended".
 
 <br>
 
-<p align="center">
+<p align="center"><br>
 <img width="500" height="360" alt="Captura de pantalla 2026-11-12 191950" 
   src="https://github.com/user-attachments/assets/f6a2f73f-8cdf-44e2-a4ea-46ab15f136be" /><br>
 </p>
